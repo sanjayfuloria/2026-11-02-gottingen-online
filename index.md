@@ -12,7 +12,7 @@ humantime: "8:00 am - 3:30 pm UTC"    # human-readable times for the workshop e.
 startdate: 2026-11-02      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-11-03        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sanjay Fuloria", "Shashank Shekhar Harivyasi"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TBD", "TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["TBD", "TBD"]    # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["sanjayfuloria@gmail.com","harivyasi@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["ma[...]
 # Optional variables
 collaborative_notes: https://pad.carpentries.org/2026-11-02-gottingen-online # URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org[...]
