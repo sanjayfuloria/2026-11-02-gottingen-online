@@ -532,6 +532,8 @@ of code below the Schedule `<h2>` header below with
   </div>
 </div>
 
+<hr/>
+
 <h2 id="downloads">Downloads</h2>
 
 <p>Please download the following <strong>before</strong> the workshop begins.</p>
