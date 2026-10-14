@@ -589,43 +589,6 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-<h2 id="downloads">Downloads</h2>
-
-<p>Please download the following <strong>before</strong> the workshop begins.</p>
-
-<h3>Software</h3>
-
-<p>
-<strong>DB Browser for SQLite</strong> (needed for the Databases and SQL lesson on Day 2):<br/>
-Download and install the version for your operating system from
-<a href="https://sqlitebrowser.org/dl/">sqlitebrowser.org/dl</a>.
-</p>
-
-<h3>Lesson Data</h3>
-
-<p>
-<strong>Shell lesson:</strong><br/>
-Download <a href="https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip">shell-lesson-data.zip</a>
-and move it to your Desktop. Unzip the file so that you have a folder called
-<code>shell-lesson-data</code> on your Desktop.
-</p>
-
-<p>
-<strong>Python lesson:</strong><br/>
-Download
-<a href="https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip">python-novice-inflammation-data.zip</a>
-and
-<a href="https://swcarpentry.github.io/python-novice-inflammation/files/code/python-novice-inflammation-code.zip">python-novice-inflammation-code.zip</a>.
-Create a folder called <code>swc-python</code> on your Desktop, move both files into it,
-and unzip them. You should see two folders called <code>data</code> and <code>code</code> inside
-<code>swc-python</code>.
-</p>
-
-<p>
-<strong>SQL lesson:</strong><br/>
-Download <a href="https://swcarpentry.github.io/sql-novice-survey/files/survey.db">survey.db</a>
-and save it to your Desktop. This is the SQLite database you will use with DB Browser for SQLite on Day 2.
-</p>
 
 <h2 id="setup">Setup</h2>
 <p>
