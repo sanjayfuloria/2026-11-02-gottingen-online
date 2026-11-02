@@ -544,6 +544,7 @@ of code below the Schedule `<h2>` header below with
 <strong>DB Browser for SQLite</strong> (needed for the Databases and SQL lesson on Day 2):<br/>
 Download and install the version for your operating system from
 <a href="https://sqlitebrowser.org/dl/">sqlitebrowser.org/dl</a>.
+If this installation method doesn't work, use <a href="https://www.youtube.com/watch?v=XNe09PRLvIs">this video to install SQLite</a>.
 </p>
 
 <p>
