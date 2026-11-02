@@ -546,6 +546,11 @@ Download and install the version for your operating system from
 <a href="https://sqlitebrowser.org/dl/">sqlitebrowser.org/dl</a>.
 </p>
 
+<p>
+<strong>Git Bash for Windows:</strong>
+Download and install it from <a href="https://gitforwindows.org/">gitforwindows.org</a>.
+</p>
+
 <h3>Lesson Data</h3>
 
 <p>
